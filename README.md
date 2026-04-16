@@ -7,15 +7,13 @@ I’m currently new to this space and actively exploring how digital tools can e
 ---
 
 ### Featured Projects
+Below are two interactive microlearning games I’ve developed, focused on making learning more engaging through gameplay rather than traditional formats.
 
-**Work At Height Quiz**  
-A scenario-based safety quiz focused on Working at Height (WAH) to reinforce safe decision-making and hazard awareness in high-risk environments.
+### Height Sense (Working at Height Safety Game)
+Height Sense is a short, browser-based interactive game designed to raise awareness around Working at Height (WAH) safety. It places users in realistic scenarios where they must identify hazards, make decisions, and apply safe work practices.
 
-**STF Kahoot Game**  
-A gamified quiz focused on Slip, Trip, and Fall (STF) awareness to drive engagement and retention.
-
-**Warehouse Hazard Spotting Game**  
-A visual-based hazard identification game tailored for warehouse environments.
+### Bite Right (Nutrition Game)
+Bite Right is a fast-paced, interactive game that helps users understand how everyday food choices impact energy, focus, and overall well-being.
 
 ---
 
