@@ -22,4 +22,4 @@ A fast-paced game about how food choices affect energy and focus.
 
 ---
 
-Open to feedback or ideas.
+Open to feedback or ideas :)
