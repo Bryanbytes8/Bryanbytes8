@@ -17,7 +17,7 @@ A fast-paced game about how food choices affect energy and focus.
 ### Focus
 
 * Gamified learning
-* WSH / safety training
+* Awareness building 
 * Interactive tools
 
 ---
