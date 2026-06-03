@@ -12,14 +12,11 @@ Exploring gamified learning tools to enhance awareness, using AI-assisted workfl
 
 ### Projects
 
-**Sedentary Check**
-A quick interactive check-in on your sitting habits and movement, with a personalised report generated at the end.
+**Marginalia**
+A personal reading archive for storing and revisiting books, articles, and past reads.
 
-**Height Sense**
-A short game on working at height safety. Spot hazards and make safe decisions.
-
-**Bite Right**
-A fast-paced game about how food choices affect energy and focus.
+**RepRight**
+A beginner-friendly gym guide for learning exercises with simple, clear instructions.
 
 ---
 
