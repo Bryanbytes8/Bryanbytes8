@@ -13,7 +13,7 @@ Exploring gamified learning tools to enhance awareness, using AI-assisted workfl
 ### Projects
 
 **Marginalia**
-A personal reading archive for storing and revisiting books, articles, and past reads.
+A personal reading archive for storing and revisiting books and past reads.
 
 **RepRight**
 A beginner-friendly gym guide for learning exercises with simple, clear instructions.
